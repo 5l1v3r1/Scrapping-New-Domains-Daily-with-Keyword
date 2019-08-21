@@ -1,4 +1,4 @@
-SCRAPPING NEW DOMAINS DAILY WITH KEYWORD
+# SCRAPPING NEW DOMAINS DAILY WITH KEYWORD
 
 Scrapping new domains from www.tastereports.com with a keyword and write them to a dataframe,  
 
@@ -6,8 +6,8 @@ Virtualize the result with matplotlib
 
 And save the result as a CSV file
 
-Why I need this python script?
 
+## Why I need this python script?
 After making a small search, I see that creating fake mobile web pages increasing for phishing. Most of them spread themselves via WhatsApp messages by "win a gift"​ lies... This post is a small example of the systematical phishing attacks by real data. 
 
 Detail:
