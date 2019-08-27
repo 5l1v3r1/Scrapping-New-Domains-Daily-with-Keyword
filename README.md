@@ -6,6 +6,11 @@ Virtualize the result with matplotlib
 
 And save the result as a CSV file
 
+__Using:__
+- pandas
+- BeautifulSoup
+- matplotlib
+
 
 ## Why I need this python script?
 After making a small search, I see that creating fake mobile web pages increasing for phishing. Most of them spread themselves via WhatsApp messages by "win a gift"​ lies... This post is a small example of the systematical phishing attacks by real data. 
