@@ -1,4 +1,4 @@
-# SCRAPPING NEW DOMAINS DAILY WITH KEYWORD
+# Scrapping New Domains Daily With Keyword
 
 Scrapping new domains from www.tastereports.com with a keyword and write them to a dataframe,  
 
